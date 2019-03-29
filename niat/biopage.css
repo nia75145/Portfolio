@@ -31,7 +31,15 @@ h3{
   background-image: url(pythonsnip.PNG);
   background-size: cover;
 }
-#appdiv{
+#pythondiv{
   background-image: url(snipofappin.PNG);
+  background-size: cover;
+}
+#csdiv{
+  background-image: url(IMG_9846.PNG);
+  background-size: cover;
+}
+#niadiv{
+  background-image: url(IMG_9857.PNG);
   background-size: cover;
 }

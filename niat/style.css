@@ -1,0 +1,14 @@
+body{
+  background-color: #34A6F7;
+  color : purple;
+  text-align: center;
+  font-size: 18px;
+}
+
+#textdiv{
+  color: yellow;
+}
+
+#appdiv{
+  background-image: url(pythonsnip.PNG);
+}
